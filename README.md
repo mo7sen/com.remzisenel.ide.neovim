@@ -1,5 +1,8 @@
 # Unity Neovim CodeEditor Plugin
 
+## This Fork
+The aim of this fork is to add whatever changes are necessary to get this package working with Unity 2022.3.10f1 on Windows.
+
 ## Description
 
 I got frustrated enough with Omnisharp that I implemented a Neovim extension for Unity Editor to hack my way around shortcomings of Omnisharp.
